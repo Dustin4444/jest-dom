@@ -96,13 +96,13 @@
     "expect": "^29.6.2",
     "jest-environment-jsdom-sixteen": "^1.0.3",
     "jest-watch-select-projects": "^2.0.0",
-    "jsdom": "^16.2.1",
+    "jsdom": "^17.0.0",
     "kcd-scripts": "^14.0.0",
     "pretty-format": "^25.1.0",
     "rollup": "^3.28.1",
     "rollup-plugin-delete": "^2.0.0",
     "typescript": "^5.1.6",
-    "vitest": "^0.34.1"
+    "vitest": "^3.2.6"
   },
   "peerDependencies": {
     "@testing-library/dom": ">=10 <11",
